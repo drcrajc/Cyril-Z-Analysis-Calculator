@@ -24,3 +24,6 @@ You can calculate the rest
 Enjoy research with dielectric studies & complex impedance analysis.
 
 Don't forget to cite this git link for all your research publications and project thesis.
+
+Citation Link:
+https://github.com/drcrajc/Cyril-Z-Analysis-Calculator.git
