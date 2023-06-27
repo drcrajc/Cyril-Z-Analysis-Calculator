@@ -1,6 +1,6 @@
 # Cyril-Z-Analysis-Calculator
 
-This project helps the impedance analysis calculations using OriginLab Version 8 and above.
+This project helps the impedance analysis calculations using OriginLab Version 8, use python code for faster execution..
 
 Instructions:
 
